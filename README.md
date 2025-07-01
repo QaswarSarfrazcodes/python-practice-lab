@@ -11,3 +11,10 @@ This repository contains basic Python practice files including:
 📁 Path: `D:\Python_learning\python practice  lab files`
 
 🔁 Continuously updated with new exercises.
+-------
+
+git add .
+git commit -m "Updated files"
+git push
+
+--------
